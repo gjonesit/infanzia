@@ -5,7 +5,7 @@ backend:
 media_folder: "images"
 public_folder: "/images"
 
-site_url: "/"
+site_url: "https://sunny-druid-e6c5c1.netlify.app/"
 logo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/500px-Google_%22G%22_logo.svg.png" # opzionale
 
 collections:
