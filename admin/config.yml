@@ -5,8 +5,8 @@ backend:
 media_folder: "images"
 public_folder: "/images"
 
-site_url: "{{ site.url }}"
-logo_url: "{{ site.url }}{{ site.logo }}" # opzionale
+site_url: ""
+logo_url: "/images/logo.png" # opzionale
 
 collections:
   - name: "posts"
