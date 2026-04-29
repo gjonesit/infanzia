@@ -1,0 +1,44 @@
+@font-face {
+   font-family:"Inter";
+   font-weight:400;
+   font-style:normal;
+   font-display:swap;
+   src:url("https://static.zohocdn.com/webfonts/interregular/font.eot");
+   src:url("https://static.zohocdn.com/webfonts/interregular/font.eot") format("eot"),
+       url("https://static.zohocdn.com/webfonts/interregular/font.woff2") format("woff2"),
+       url("https://static.zohocdn.com/webfonts/interregular/font.woff") format("woff"),
+       url("https://static.zohocdn.com/webfonts/interregular/font.ttf") format("truetype"),
+       url("https://static.zohocdn.com/webfonts/interregular/font.svg") format("svg");}
+@font-face {
+   font-family:"Inter";
+   font-weight:700;
+   font-style:normal;
+   font-display:swap;
+   src:url("https://static.zohocdn.com/webfonts/interbold/font.eot");
+   src:url("https://static.zohocdn.com/webfonts/interbold/font.eot") format("eot"),
+       url("https://static.zohocdn.com/webfonts/interbold/font.woff2") format("woff2"),
+       url("https://static.zohocdn.com/webfonts/interbold/font.woff") format("woff"),
+       url("https://static.zohocdn.com/webfonts/interbold/font.ttf") format("truetype"),
+       url("https://static.zohocdn.com/webfonts/interbold/font.svg") format("svg");}
+@font-face {
+   font-family:"Cardo";
+   font-weight:400;
+   font-style:normal;
+   font-display:swap;
+   src:url("https://static.zohocdn.com/webfonts/cardoregular/font.eot");
+   src:url("https://static.zohocdn.com/webfonts/cardoregular/font.eot") format("eot"),
+       url("https://static.zohocdn.com/webfonts/cardoregular/font.woff2") format("woff2"),
+       url("https://static.zohocdn.com/webfonts/cardoregular/font.woff") format("woff"),
+       url("https://static.zohocdn.com/webfonts/cardoregular/font.ttf") format("truetype"),
+       url("https://static.zohocdn.com/webfonts/cardoregular/font.svg") format("svg");}
+@font-face {
+   font-family:"Cardo";
+   font-weight:700;
+   font-style:normal;
+   font-display:swap;
+   src:url("https://static.zohocdn.com/webfonts/cardobold/font.eot");
+   src:url("https://static.zohocdn.com/webfonts/cardobold/font.eot") format("eot"),
+       url("https://static.zohocdn.com/webfonts/cardobold/font.woff2") format("woff2"),
+       url("https://static.zohocdn.com/webfonts/cardobold/font.woff") format("woff"),
+       url("https://static.zohocdn.com/webfonts/cardobold/font.ttf") format("truetype"),
+       url("https://static.zohocdn.com/webfonts/cardobold/font.svg") format("svg");}
